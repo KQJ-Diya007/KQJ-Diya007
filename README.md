@@ -1,5 +1,6 @@
+<!-- <h1 align="center">Diya</h1> -->
 ### Welcome to My Profile
-### Hello, I'm Diya! 👋
+### Hi, I'm Diya! 👋
 #### A Computer Science Student 👩🏻‍💻 
 <!-- <a href="https://tryhackme.com/signup?referrer="> -->
 <a href="https://tryhackme.com/p/KQJDiya007"> <img src="https://tryhackme-badges.s3.amazonaws.com/KQJDiya007.png" />
