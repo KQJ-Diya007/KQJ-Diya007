@@ -5,7 +5,6 @@
 $ whoami
 > Diya
 ```
-`#0969DA Diya` 
 #### A Computer Science Student 👩🏻‍💻 
 <!-- <a href="https://tryhackme.com/signup?referrer="> -->
 <a href="https://tryhackme.com/p/KQJDiya007"> <img src="https://tryhackme-badges.s3.amazonaws.com/KQJDiya007.png" />
