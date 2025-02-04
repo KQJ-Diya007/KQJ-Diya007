@@ -7,9 +7,8 @@ $ whoami
 ```
 #### A Computer Science Student 👩🏻‍💻 
 <!-- <a href="https://tryhackme.com/signup?referrer="> -->
-```console
 <a href="https://tryhackme.com/p/KQJDiya007"> <img src="https://tryhackme-badges.s3.amazonaws.com/KQJDiya007.png" />
-```
+
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kqj-diya007), [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kqj_diya007), [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/KQJ_Diya007)   
