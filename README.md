@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Diya</h1> -->
-### Welcome to My Profile
+### Welcome
 
 ```console
 $ whoami
